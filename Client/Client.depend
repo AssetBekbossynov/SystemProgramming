@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520337887 source:/home/asset/SP/Client/main.c
+	<stdio.h>
+	<string.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
